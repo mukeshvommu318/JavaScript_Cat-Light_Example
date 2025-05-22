@@ -6,4 +6,6 @@
     .textContent=""   -> used to get & set the child node in element
     .style.color=""   -> used to style 
 
+**Note :** attribute of the style should be in Camel Case  (Ex: backgroundColor, paddingTop) 
+
     
